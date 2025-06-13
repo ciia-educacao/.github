@@ -40,10 +40,10 @@ Essas iniciativas visam reduzir desigualdades educacionais e capacitar professor
 ### Desenvolvedores
 | Imagem | Nome | Contato |
 | --- | --- | --- |
-| <img src="link" alt="Imagem 1" width="100" height="100"/> | Carolina Fernandes | |
+| <img src="https://avatars.githubusercontent.com/u/132309411?v=4" alt="Imagem 1" width="100" height="100"/> | Carolina Fernandes | [carollingian ](https://github.com/carollingian) |
 | <img src="https://avatars.githubusercontent.com/u/89321536?v=4" alt="Imagem 1" width="100" height="100"/> | Danilo Naves | [DaniloNavesS ](https://github.com/DaniloNavesS)|
 | <img src="https://avatars.githubusercontent.com/u/102330077?v=4" alt="Imagem 1" width="100" height="100"/> | Lurian Correia | [luricl ](https://github.com/luricl)|
-| <img src="link" alt="Imagem 1" width="100" height="100"/> | Mariana Monteiro | |
+| <img src="https://avatars.githubusercontent.com/u/127952314?v=4" alt="Imagem 1" width="100" height="100"/> | Mariana Monteiro | [marianambb](https://github.com/marianambb) |
 | <img src="https://avatars.githubusercontent.com/u/97989639?v=4" alt="Imagem 1" width="100" height="100"/> | Milena Aires | [Milenaaires](https://github.com/milenaaires)|
 | <img src="https://avatars.githubusercontent.com/u/72769279?v=4" alt="Imagem 1" width="100" height="100"/> | Samuel Gomes | [SamuelGSouza](https://github.com/SamuelGSouza)|
 
