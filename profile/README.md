@@ -32,10 +32,15 @@ Essas iniciativas visam reduzir desigualdades educacionais e capacitar professor
 
 ## 👥 Equipe
 
-### Coordenador
-| Imagem | Nome | Contato |
-| --- | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/7276453?v=4" alt="Imagem 1" width="100" height="100"/> | Victor Rafael Rezende Celestino | [cvictorr2508](https://github.com/cvictorr2508)|
+### Gestão do Projeto
+| Imagem | Nome | Contato | Cargo |
+| --- | --- | --- | --- |
+|   |  Prof Ricardo Barros Sampaio |   | Coordenador do projeto | 
+|   | Profa Suelen Gonçaves dos Anjos |   | Coordenadora do NIAEdu |
+| <img src="https://avatars.githubusercontent.com/u/29101133?v=4" alt="Imagem 1" width="100" height="100"/> | Prof Jorge Henrique Cabral Fernandes | [jhcf](https://github.com/jhcf)  | Pesquisador CIC/UnB |
+| <img src="../images/profvictor_rafael.jpg" alt="Imagem 1" width="80" height="100"/> | Prof Victor Rafael Rezende Celestino | [cvictorr2508](https://github.com/cvictorr2508)| Pesquisador FACE |
+| <img src="https://avatars.githubusercontent.com/u/2911755?v=4" alt="Imagem 1" width="100" height="100"/> | Prof Lucas Rodrigues Costa | [lucasrodri](https://github.com/lucasrodri)  | Pesquisador GigaCandanga |
+| <img src="https://avatars.githubusercontent.com/u/4336448?v=4" alt="Imagem 1" width="100" height="100"/> | Prof Marcos Fagundes Caetano | [mfcaetano](https://github.com/mfcaetano) | Pesquisador CIC/UnB |
 
 ### Desenvolvedores
 | Imagem | Nome | Contato |
