@@ -33,24 +33,25 @@ Essas iniciativas visam reduzir desigualdades educacionais e capacitar professor
 ## 👥 Equipe
 
 ### Gestão do Projeto
-| Imagem | Nome | Contato | Cargo |
-| --- | --- | --- | --- |
-|   |  Prof Ricardo Barros Sampaio |   | Coordenador do projeto | 
-|   | Profa Suelen Gonçaves dos Anjos |   | Coordenadora do NIAEdu |
-| <img src="https://avatars.githubusercontent.com/u/29101133?v=4" alt="Imagem 1" width="100" height="100"/> | Prof Jorge Henrique Cabral Fernandes | [jhcf](https://github.com/jhcf)  | Pesquisador CIC/UnB |
-| <img src="../images/profvictor_rafael.jpg" alt="Imagem 1" width="80" height="100"/> | Prof Victor Rafael Rezende Celestino | [cvictorr2508](https://github.com/cvictorr2508)| Pesquisador FACE |
-| <img src="https://avatars.githubusercontent.com/u/2911755?v=4" alt="Imagem 1" width="100" height="100"/> | Prof Lucas Rodrigues Costa | [lucasrodri](https://github.com/lucasrodri)  | Pesquisador GigaCandanga |
-| <img src="https://avatars.githubusercontent.com/u/4336448?v=4" alt="Imagem 1" width="100" height="100"/> | Prof Marcos Fagundes Caetano | [mfcaetano](https://github.com/mfcaetano) | Pesquisador CIC/UnB |
+| Imagem                                                                                   | Nome                                   | Contato                                         | Cargo                      |
+|------------------------------------------------------------------------------------------|----------------------------------------|-------------------------------------------------|----------------------------|
+|                                                                                          | Prof Ricardo Barros Sampaio            |                                                 | Coordenador do projeto      |
+|                                                                                          | Profa Suelen Gonçaves dos Anjos        |                                                 | Coordenadora do NIAEdu      |
+| <img src="https://avatars.githubusercontent.com/u/29101133?v=4" width="100" height="100"/> | Prof Jorge Henrique Cabral Fernandes | [jhcf](https://github.com/jhcf)                 | Pesquisador CIC/UnB         |
+| <img src="../images/profvictor_rafael.jpg" width="80" height="100"/>                     | Prof Victor Rafael Rezende Celestino   | [cvictorr2508](https://github.com/cvictorr2508) | Pesquisador FACE            |
+| <img src="https://avatars.githubusercontent.com/u/2911755?v=4" width="100" height="100"/> | Prof Lucas Rodrigues Costa            | [lucasrodri](https://github.com/lucasrodri)     | Pesquisador GigaCandanga    |
+| <img src="https://avatars.githubusercontent.com/u/4336448?v=4" width="100" height="100"/> | Prof Marcos Fagundes Caetano          | [mfcaetano](https://github.com/mfcaetano)       | Pesquisador CIC/UnB         |
+| <img src="https://avatars.githubusercontent.com/u/2043043?v=4" width="100" height="100"/> | Dr. Paulo Angelo Alves Resende        | [pauloangelo](https://github.com/pauloangelo)   | Pesquisador GigaCandanga    |
 
 ### Desenvolvedores
-| Imagem | Nome | Contato |
-| --- | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/132309411?v=4" alt="Imagem 1" width="100" height="100"/> | Carolina Fernandes | [carollingian ](https://github.com/carollingian) |
-| <img src="https://avatars.githubusercontent.com/u/89321536?v=4" alt="Imagem 1" width="100" height="100"/> | Danilo Naves | [DaniloNavesS ](https://github.com/DaniloNavesS)|
-| <img src="https://avatars.githubusercontent.com/u/102330077?v=4" alt="Imagem 1" width="100" height="100"/> | Lurian Correia | [luricl ](https://github.com/luricl)|
-| <img src="https://avatars.githubusercontent.com/u/127952314?v=4" alt="Imagem 1" width="100" height="100"/> | Mariana Monteiro | [marianambb](https://github.com/marianambb) |
-| <img src="https://avatars.githubusercontent.com/u/97989639?v=4" alt="Imagem 1" width="100" height="100"/> | Milena Aires | [Milenaaires](https://github.com/milenaaires)|
-| <img src="https://avatars.githubusercontent.com/u/72769279?v=4" alt="Imagem 1" width="100" height="100"/> | Samuel Gomes | [SamuelGSouza](https://github.com/SamuelGSouza)|
+| Imagem                                                                                   | Nome               | Contato                                         |
+|------------------------------------------------------------------------------------------|--------------------|-------------------------------------------------|
+| <img src="https://avatars.githubusercontent.com/u/132309411?v=4" width="100" height="100"/> | Carolina Fernandes | [carollingian](https://github.com/carollingian) |
+| <img src="https://avatars.githubusercontent.com/u/89321536?v=4" width="100" height="100"/>  | Danilo Naves       | [DaniloNavesS](https://github.com/DaniloNavesS) |
+| <img src="https://avatars.githubusercontent.com/u/102330077?v=4" width="100" height="100"/> | Lurian Correia     | [luricl](https://github.com/luricl)             |
+| <img src="https://avatars.githubusercontent.com/u/127952314?v=4" width="100" height="100"/> | Mariana Monteiro   | [marianambb](https://github.com/marianambb)     |
+| <img src="https://avatars.githubusercontent.com/u/97989639?v=4" width="100" height="100"/>  | Milena Aires       | [milenaaires](https://github.com/milenaaires)    |
+| <img src="https://avatars.githubusercontent.com/u/72769279?v=4" width="100" height="100"/>  | Samuel Gomes       | [SamuelGSouza](https://github.com/SamuelGSouza) |
 
 ---
 
@@ -63,6 +64,7 @@ Essas iniciativas visam reduzir desigualdades educacionais e capacitar professor
 - Instituto Federal de Brasília (IFB)
 - Universidade do Distrito Federal (UnDF)
 - Instituto Hardware Brasil (IHB)
+- Associação GigaCandanga
 
 ---
 
